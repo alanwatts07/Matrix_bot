@@ -1,0 +1,9 @@
+{
+    "tokens_scanned": 75176,
+    "tokens_scanned_lifetime": 75176,
+    "tokens_detected_as_danger": 1275,
+    "tokens_detected_as_warn": 1679,
+    "tokens_detected_as_logged": 26104,
+    "tokens_skipped_due_to_error": 415,
+    "tokens_pool_liquidity_safe": 4
+}
